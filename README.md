@@ -30,7 +30,7 @@ Python Syntax
  -Pipe(or in english) ||
  -Other characters *, &, % $, #, !, +, = 
 
-There is a saying that, computers are dumb. Therefore, when writing programs in python, if we don't follow the syntax of python programming language, we get syntax errors. The computer will not try to correct our syntax because it the programmer's job to use the correct syntax. Now lets start writing code, using the three basics programmming constructs as shown below:
+There is a saying that, computers are dumb. Therefore, when writing programs in python, if we don't follow the syntax of python programming language, we get syntax errors. The computer will not try to correct our syntax, rather expecting the programmer to use the correct syntax when writing code:
 1. Sequence 
    - Variables
     - What is a variable

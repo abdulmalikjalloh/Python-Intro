@@ -6,11 +6,11 @@ Python is a programming language.
 
 # What is programming and/or a program?
 Programming is writing instructions for a computer to execute
-A program is a set of instructions.
+- A program is a set of instructions.
 
 # What is a computer?
-A computer is an electronic device that performs I.P.O
-I.P.O ---> Input Process Ouput
+A computer is an electronic device that performs I.P.O.
+- I.P.O ---> Input Process Ouput. 
 For this reason (IPO), I beleive the term computing devices is best suited to describe electronic devices as it covers a wide range of electronic devices (Smart Watch, Sat Nav, Tablet, Mobile Phones..etc) that perfroms input process and output.
 
 # Sorry for that detour, back to instructions. 
@@ -21,17 +21,17 @@ to do things or you can say. A programmer write some instructions in python prog
 As with every culture and society there are rules(written/unwritten.). The rules that govern the way we communicate with each other. 
 For example, when we extend and/or exchange greetings with people, be it family, friends or strangers, we follow some sort of rule(s). Granted when interacting with family members, loved ones or friends the rules are less stringent as opposed to an interaction with a stranger or someone you know in a profesional capacity.
 
-# It is important to note that, these instructions could be in any programming language, 
-and that these rules are specific to a programming language. Since python is the program of choice, it only makes sense it is reference specifically. Suffice to say "Syntax" in this instance are the rules specific to python programming language, in other words the spelling and grammar. Below are some python syntax examples:
+# It is important to note that, these instructions could be in any programming language.
+And that these rules are specific to a programming language. Since python is the program of choice, it only makes sense it is reference specifically. Suffice to say "Syntax" in this instance are the rules specific to python programming language, in other words the spelling and grammar. Below are some python syntax examples:
 # Python Syntax
- -Colon :
- -Semi Colon ;
- -Parenthesis ()
- -Quotation "" or ''
- -Question Marks ???
- -Forward/Backlash / or \S
- -Pipe(or in english) ||
- -Other characters *, &, % $, #, !, +, = 
+ - Colon :
+ - Semi Colon ;
+ - Parenthesis ()
+ - Quotation "" or ''
+ - Question Marks ???
+ - Forward/Backlash / or \S
+ - Pipe(or in english) ||
+ - Other characters *, &, % $, #, !, +, = 
 
 There is a saying that, computers are dumb. Therefore, when writing programs in python, if we don't follow the syntax of python programming language, we get syntax errors. The computer will not try to correct our syntax, rather expecting the programmer to use the correct syntax when writing code:
 1. Sequence 

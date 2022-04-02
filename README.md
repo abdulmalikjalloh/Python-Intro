@@ -17,12 +17,7 @@ covers a wide range of electronic devices (Smart Watch, Sat Nav, Tablet, Mobile 
 process and output.
 
 # Sorry for that detour, back to instructions. 
-Humans carry out instructions daily, remember as a child, more often than you would have liked, you were instructed 
-by your parents/guardians "It's time to go to bed". Only, with python we are instructing a computer(computing device) 
-instead of another person, to do things or you can say. A programmer write some instructions in python programming 
-language for the computer(computing device) to carryout/execute.  However, there is a way these instructions have to 
-be written for it to be executed succssfully or rules(syntax) that we have to follow when writing instructions in 
-python or to put more aptly when programming in python.
+Humans carry out instructions daily, remember as a child, more often than you would have liked, you were instructed by your parents/guardians "It's time to go to bed". Only, with python we are instructing a computer(computing device) instead of another person, to do things or you can say. A programmer write some instructions in python programming language for the computer(computing device) to carryout/execute.  However, there is a way these instructions have to be written for it to be executed succssfully or rules(syntax) that we have to follow when writing instructions in python or to put more aptly when programming in python.
 
 # Syntax you say
 As with every culture and society there are rules(written/unwritten.). The rules that govern the way we communicate 

@@ -1,8 +1,8 @@
 "1. Sequence : in python is the execution of code in the order in which it was written"
-# comments are written in single quotes '', double quotes "" or hash tag #. in fact these # lines are commented out with #.
+# Comments are written in single quotes '', double quotes "" or hash tag #. in fact these # lines are commented out with #.
 
-"""Therefore, the python interpreter would not print it out unlike the two print statements below on line 7 and 8 with their respective strings wrapped
-in quotes # they will be printed in the order they were written...that print line 7 and then line 8 """
+"""Therefore, the python interpreter would not print any commented code in the terminal. However, print statements below on from line 7 with their respective strings wrapped
+in quotes will be printed in the order they were written...that print from line 7 followeed by the next line...and so on"""
 
 print(
     "Welcome to the Python Diaries series"

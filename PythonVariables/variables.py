@@ -59,7 +59,10 @@ print(type(fullName))
  num2 variable is of type integer. However, it is now been casted/converted as a string value so it can be printed 
  without any errors. Also, the + operator in the print statement is used in this instance to concatenate (join together)"""
 
-print("Hello " + fullName + " you are now " + str(num2) + " years old")
-num2 = 50
-total = num1 + num2
+print("Hello " + fullName + " you are " + str(num2) + " years old")
+
+num4 = 45
+num5 = 55
+# the variable total is of type int, because the variables num4 + num5, were initialised as with integer values.
+total = num4 + num5
 print(f"The total {total} ")

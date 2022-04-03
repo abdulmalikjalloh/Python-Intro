@@ -60,22 +60,25 @@ Python is an interpreted programming language, thus use an interpreter to transl
 
 There is a saying that, computers are dumb. Therefore, when writing programs in python, if we don't follow the syntax of python programming language, we get syntax errors. The computer will not try to correct our syntax, rather expecting the programmer to use the correct syntax when writing code:
 
-1. Sequence
+# Sequence
 
 - In python programming sequence is instructions perfromed or executed in the order in which they were written. Therefore, it is important to write the code in the correct sequence so that the predicted outcome matches the expected outcome, since the order of execution is from top to bottom.
 
-- Variables
+# Variables
+
 - A variable is a container that holds a value, the value can be of any data type (more on data type later), this(variable) is stored in a memory location and must be declared before it is used. The variable is then reference when the program is running, even though a variable holds one value at a time. However, during the execution(running) of a program the value of the variable can change. For example, number = 10 , num = 3, name = "Abu"
 - Variable naming conventions and meaningful identifiers
-- Variable naming convention are a naming standards that should be adhered to when writing python code, to ensure your code is easily readable and understood by other programmers.
-- Meaningful identifiers, this means a variable must be named accordingly, for example num1 or num will be meaningful name for a variable that holds the number(numeric value) 1, 2, 3. Whereas, userName would be unsuitable as a name for a number variable, but appropriate for a variable that holds the value "Musa21".
-  https://peps.python.org/pep-0008/#function-and-variable-names
+  - Variable naming convention are a naming standards that should be adhered to when writing python code, to ensure your code is easily readable and understood by other programmers.
+  - Meaningful identifiers, this means a variable must be named accordingly, for example num1 or num will be meaningful name for a variable that holds the number(numeric value) 1, 2, 3. Whereas, userName would be unsuitable as a name for a number variable, but appropriate for a variable that holds the value "Musa21".
+    https://peps.python.org/pep-0008/#function-and-variable-names
 - Variable Initialisation
-  Initialisation is when a variable is assinged an initial value.
+  - Initialisation is when a variable is assinged an initial value.
 - Variable Assignment
-  "Is when the value of a variable is change at the memory location "
+
+  - "Is when the value of a variable is change at the memory location "
 
 - Data types
 
-2. Selection
-3. Iteration
+# Selection
+
+# Iteration

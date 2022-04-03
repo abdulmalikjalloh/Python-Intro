@@ -21,11 +21,11 @@ A computer is an electronic device that performs I.P.O.
 
 # Sorry for that detour, back to instructions.
 
-Humans carry out instructions daily, remember as a child, more often than you would have liked, you were instructed by your parents or guardians "It's time to go to bed". Only, with python, we are instructing a computer(computing device) instead of another person to do things. Thus, A programmer write some (code) instructions in python programming language for the computer(computing device) to carryout or execute. However, there is a way these instructions have to be written for it to be executed succssfully or rules(syntax) that we have to follow when writing instructions in python or to put more aptly when programming in python.
+Humans carry out instructions daily, remember as a child, more often than you would have liked, you were instructed by your parents or guardians "It's time to go to bed". Only, with python, we are instructing a computer(computing device) instead of another person to do things. Thus, a programmer write some (code) instructions in python programming language for the computer(computing device) to carryout or execute. However, there is a way these instructions have to be written for it to be executed succssfully, or rules(syntax) that we have to follow when writing instructions in python or to put more aptly when programming in python.
 
 # Syntax
 
-As with every culture and society there are rules(written/unwritten.), the rules that govern the way we communicate with each other. For example, when we extend and/or exchange greetings with people, be it family, friends or strangers, we follow some sort of rule(s). Granted that when interacting with family members, loved ones or friends, these rules are less stringent as opposed to an interaction with a stranger or someone you know in a profesional capacity.
+As with every culture and society there are rules(written/unwritten.), take the rule(s) that govern the way we communicate with each other. For example, when we extend and/or exchange greetings with people, be it family, friends or strangers, we follow some sort of rule(s). Granted that when interacting with family members, loved ones or friends, these rules are less stringent as opposed to an interaction with a stranger or someone you know in a profesional capacity.
 
 # An important note
 
@@ -62,13 +62,14 @@ There is a saying that, computers are dumb. Therefore, when writing programs in 
 
 1. Sequence
 
-- In python programming sequence is instructions perfromed or executed in the order in which they were written. Therefore, it is important to write the code in the correct sequence so that the predicted out matches the expected outcome, since the order of execution is from top to bottom.
+- In python programming sequence is instructions perfromed or executed in the order in which they were written. Therefore, it is important to write the code in the correct sequence so that the predicted outcome matches the expected outcome, since the order of execution is from top to bottom.
 
 - Variables and naming conventions
-  - What is a variable
-  - Declare, initialiase, make a refernce call to a variable
-  - Need for variable
-  - Data types
+- A variable is a container that holds a value, the value can be of any data type (more on this later).
+- What is a variable
+- Declare, initialiase, make a refernce call to a variable
+- Need for variable
+- Data types
 
 2. Selection
 3. Iteration

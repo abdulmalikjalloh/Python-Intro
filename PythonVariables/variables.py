@@ -1,10 +1,3 @@
-# Variable Assignment
-"Is when the value of a variable is change at the memory location "
-num3 = 20  # Varaible initialisation
-
-num3 = 36  # The value held in the memory location num3 has been mdofied from 20 to 36
-
-
 # Variable naming convention
 "Variable naming convention: Be mindful that variables are case sensitive"
 username = "Musa21"  # use meaningful name
@@ -48,6 +41,12 @@ print(f"Welcome {fullName} to programming in python")
 
 " formating output without f-string"
 print("Hello ", fullName, "you are", num2, "years old")
+
+# Variable Assignment
+"Is when the value of a variable is changed at the memory location"
+num3 = 20  # Varaible initialisation
+
+num3 = 36  # The value held in the memory location num3 has been mdofied from 20 to 36
 
 
 "To check the datatype for a variable, use the the type class object in the print statement as shown below"

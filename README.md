@@ -66,7 +66,8 @@ There is a saying that, computers are dumb. Therefore, when writing programs in 
 
 # Variables
 
-- A variable is a container that holds a value, the value can be of any data type (more on data type later), this(variable) is stored in a memory location and must be declared before it is used. The variable is then reference when the program is running, even though a variable holds one value at a time. However, during the execution(running) of a program the value of the variable can change. For example, number = 10 , num = 3, name = "Abu"
+- A variable is a container that holds a value, the value can be of any data type (more on data type later), this (variable) is stored in a memory location and must be declared before it is used. The variable is then reference when the program is running, even though a variable holds one value at a time. However, during the execution(running) of a program the value of the variable can change.
+  For example, this is how a variable is initiliased in python; number = 10 , num = 3, name = "Abu"
 - Variable naming conventions and meaningful identifiers
   - Variable naming convention are a naming standards that should be adhered to when writing python code, to ensure your code is easily readable and understood by other programmers.
   - Meaningful identifiers, this means a variable must be named accordingly, for example num1 or num will be meaningful name for a variable that holds the number(numeric value) 1, 2, 3. Whereas, userName would be unsuitable as a name for a number variable, but appropriate for a variable that holds the value "Musa21".
@@ -75,7 +76,7 @@ There is a saying that, computers are dumb. Therefore, when writing programs in 
   - Initialisation is when a variable is assinged an initial value.
 - Variable Assignment
 
-  - "Is when the value of a variable is change at the memory location "
+  - Is when the value of a variable is changed at the memory location.
 
 - Data types
 

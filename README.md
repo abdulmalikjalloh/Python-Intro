@@ -78,8 +78,9 @@ There is a saying that, computers are dumb. Therefore, when writing programs in 
 
   - Is when the value of a variable is changed at the memory location.
 
-- Data types
-- Input function
+# Data types
+
+# Input function
 
 # Selection
 

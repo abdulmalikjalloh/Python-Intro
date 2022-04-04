@@ -31,17 +31,15 @@ As with every culture and society there are rules(written/unwritten.), take the 
 
 It is important to note that, these instructions could be in any programming language, and that these rules(syntax) are specific to a programming language. Since python is the program of choice, it only makes sense it is reference specifically. Suffice to say "Syntax" in this instance are the rules specific to python programming language, in other words the spelling and grammar. Below are some python syntax examples:
 
-# Python Syntax
+# Python Syntax examples
 
 - Colon :
 - Semi Colon ;
 - Parenthesis ()
 - Quotation "" or ''
-- Question Marks ???
-- Forward/Backlash / or \S
-- Pipe(or in english) ||
-- Other characters \*, &, % $, #, !, +, =
-- print("Hello World!")
+- Backlash \n
+- print("Welcome to the Python Diaries series")
+- print( 12 + 22)
 
 # IDEs / Code Editors
 

@@ -90,7 +90,7 @@ There is a saying that, computers are dumb. Therefore, when writing programs in 
     -Set Types (set, frozenset)
 
 - Input function
-  - input function: is used to capture user input
+  - input function: is used to capture user input.
 
 # Selection
 

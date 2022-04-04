@@ -34,7 +34,6 @@ It is important to note that, these instructions could be in any programming lan
 # Python Syntax examples
 
 - Colon :
-- Semi Colon ;
 - Parenthesis ()
 - Quotation "" or ''
 - Backlash \n

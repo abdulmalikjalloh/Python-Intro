@@ -80,7 +80,17 @@ There is a saying that, computers are dumb. Therefore, when writing programs in 
   - Is when the value of a variable is changed at the memory location.
 
 - Data types
+
+  - Data types are variables used to reserve memory space.
+    In python programming an explicit varaiable initialisation is not required to reserve memory space. This happens automatically when you initialised a value to a variable. Some of the data types in python are listed below
+    -String
+    -Numeric Types(int, float)
+    -Boolean(True/False)
+    -Sequence Types (list,tuple)
+    -Set Types (set, frozenset)
+
 - Input function
+  - input function: is used to capture user input
 
 # Selection
 

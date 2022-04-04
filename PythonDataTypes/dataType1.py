@@ -1,6 +1,6 @@
 # Python Data Types
 
-"""Data types are memory used to reserve memory space.
+"""Data types are variables used to reserve memory space.
 In python programming an explicit varaiable initialisation is not required to reserve memory space. This 
 happens automatically when you initialised a value to a variable."""
 

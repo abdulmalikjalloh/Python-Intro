@@ -40,6 +40,10 @@ It is important to note that, these instructions could be in any programming lan
 - Backlash \n
 - print("Welcome to the Python Diaries series")
 - print( 12 + 22)
+- num4 = 45
+- num5 = 55
+- total = num4 + num5
+- print(f"The total {total} ")
 
 # IDEs / Code Editors
 

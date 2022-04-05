@@ -25,11 +25,7 @@ Humans carry out instructions daily, remember as a child, more often than you wo
 
 # Syntax
 
-As with every culture and society there are rules(written/unwritten.), take the rule(s) that govern the way we communicate with each other. For example, when we extend and/or exchange greetings with people, be it family, friends or strangers, we follow some sort of rule(s). Granted that when interacting with family members, loved ones or friends, these rules are less stringent as opposed to an interaction with a stranger or someone you know in a profesional capacity.
-
-# An important note
-
-It is important to note that, these instructions could be in any programming language, and that these rules(syntax) are specific to a programming language. Since python is the program of choice, it only makes sense it is reference specifically. Suffice to say "Syntax" in this instance are the rules specific to python programming language, in other words the spelling and grammar. Below are some python syntax examples:
+As with every culture and society there are rules(written/unwritten.), take the rule(s) that govern the way we communicate with each other. For example, when we extend and/or exchange greetings with people, be it family, friends or strangers, we follow some sort of rule(s). Granted that when interacting with family members, loved ones or friends, these rules are less stringent as opposed to an interaction with a stranger or someone you know in a profesional capacity. It is important to note that, these instructions could be in any programming language, and that these rules(syntax) are specific to a programming language. Since python is the program of choice, it only makes sense it is reference specifically. Suffice to say "Syntax" in this instance are the rules specific to python programming language, in other words the spelling and grammar. Below are some python syntax examples:
 
 # Python Syntax examples
 

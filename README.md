@@ -87,12 +87,14 @@ There is a saying that, computers are dumb. Therefore, when writing programs in 
 
 - Input function
 
-  - input function: is used to capture user input.
+  - input function: is used to capture user input in python and the default data type is string. Use the int, float, string and other data types to convert the default string input to the respective data type as required
 
-- List & Strings Methods
-  - List Methods
-  - String Methods
+- List & Strings Methods/functions
+  - List Methods are used to perform list operations
+  - String Methods are used to perform string operations
 
 # Selection
+
+-
 
 # Iteration

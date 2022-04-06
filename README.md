@@ -133,9 +133,10 @@ are executed in a program.
 
   - This is when an if/else block(selection) is place inside another if/else block(selection)
   - Nested if only
-  - if this condition is true(met) do something
-    - if this condition is true(met) do something (This if is nested)
-  - else do something different
+
+    - if this condition is true(met) do something
+      - if this condition is true(met) do something (This if is nested)
+    - else do something different
 
   - Nested if and else
     - if this condition is true(met) do something

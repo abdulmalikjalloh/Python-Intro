@@ -55,7 +55,8 @@ Integrated development environment, makes it easier for programmers to write cod
 
 Python is an interpreted programming language, thus use an interpreter to translate the code(instructions) written by programmers into a machine (code) readable format. When programmers write code, it is written in high level language(Python is an example of such language) and as computers can only executes machine code, thats why translator is required.
 
-There is a saying that, computers are dumb. Therefore, when writing programs in python, if we don't follow the syntax of python programming language, we get syntax errors. The computer will not try to correct our syntax, rather expecting the programmer to use the correct syntax when writing code:
+There is a saying that, computers are dumb. Therefore, when writing programs in python, if we don't follow the syntax of python programming language, we get syntax errors. The computer will not try to correct our syntax, rather expecting the programmer to use the correct syntax when writing code. Sequence, Selection and Iteration are the three basic programming constructs used to control the order in which statements or code
+are executed in a program.
 
 # Sequence
 
@@ -90,8 +91,8 @@ There is a saying that, computers are dumb. Therefore, when writing programs in 
   - input function: is used to capture user input in python and the default data type is string. Use the int, float, string and other data types to convert the default string input to the respective data type as required
 
 - List & Strings Methods/functions
-  - List Methods are used to perform list operations
-  - String Methods are used to perform string operations
+  - List Methods are used to perform list operations.
+  - String Methods are used to perform string operations.
 
 # Selection
 

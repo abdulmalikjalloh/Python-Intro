@@ -91,15 +91,59 @@ are executed in a program.
   - input function: is used to capture user input in python and the default data type is string. Use the int, float, string and other data types to convert the default string input to the respective data type as required
 
 - List & Strings Methods/functions
+
   - List Methods are used to perform list operations.
   - String Methods are used to perform string operations.
 
+- Arithmetic Expression
+
+  - Arithmetic expressions evaluates to a number
+  - Arithmetic operators
+    - (+) plus operator
+    - (-) subtraction operator
+    - (\*) muliplication operator
+    - (/) division operator (anwer with remainder)
+    - (//) floor division/ integer quotient operator (round the answer with no remainder)
+    - (%) operator : mod/modulus (outputs the remainder )
+    - (\*\*) powers
+
+- Logical Expressions
+  - Logical expression evaluates to either True or False
+  - The three logical Operators are; and, or, not "
+- Comparison Operators
+  - Use comparison operators to compare values.
+    - (==) equal to
+    - (<)less than
+    - (>)greater than
+    - (<) less than or equal to
+    - (>=) greater than or equal to
+    - (!=) Not equal to
+
 # Selection
 
-- Is used to control the flow of program using if, else and elif.
+- Is used to control the flow of program using if, else and elif to ensure a block of code is executed if the condition is true.
+- if and else statement
+  - if this condition is true(met) do something
+  - else do something different
+- if and else statement
+  - if this condition is true(met) do something
+  - elif this other condition is true(met) do something else
+  - else do something different
+- Nested Selection
+
+  - This is when an if/else block(selection) is place inside another if/else block(selection)
+
+    - if this condition is true(met) do something
+      - if this condition is true(met) do something (This if is nested)
+    - else do something different
+
+    - if this condition is true(met) do something
+      - if this condition is true(met) do something (This if is nested)
+      - else do something different (This else is nested)
+    - else do something different
 
 # Iteration
 
 - To put simply iteration means repetition, python uses the for and while loops
   - For Loop is used when the number of iteration is known
-  - While loop is used unitl a condition is met
+  - While loop is used unitl a condition is met(unknow number of iterations)

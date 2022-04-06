@@ -96,6 +96,10 @@ are executed in a program.
 
 # Selection
 
--
+- Is used to control the flow of program using if, else and elif.
 
 # Iteration
+
+- To put simply iteration means repetition, python uses the for and while loops
+  - For Loop is used when the number of iteration is known
+  - While loop is used unitl a condition is met

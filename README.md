@@ -93,10 +93,6 @@ Sequence, Selection and Iteration are the three basic programming constructs use
 
   - input function: is used to capture user input in python and the default data type is string. Use the int, float, string and other data types to convert the default string input to the respective data type as required.
 
-- List & Strings Methods/functions.
-
-  - List Methods are used to perform list operations.
-  - String Methods are used to perform string operations.
 
 - Arithmetic Expression.
 
@@ -152,3 +148,8 @@ Sequence, Selection and Iteration are the three basic programming constructs use
 - To put simply iteration means repetition, python uses the for and while loops.
   - For Loop is used when the number of iteration is known.
   - While loop is used unitl a condition is met(unknow number of iterations).
+
+- List & Strings Methods/functions.
+
+  - List Methods are used to perform list operations.
+  - String Methods are used to perform string operations.

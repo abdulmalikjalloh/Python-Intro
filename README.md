@@ -100,7 +100,13 @@ Sequence, Selection and Iteration are the three basic programming constructs use
 
 - Arithmetic Expression.
 
-  - Arithmetic expressions evaluates to a number.
+  - Arithmetic expressions evaluates to a number, therefore uou must thing about BIDMAS(evaluated in order of precedence) when using it in python.
+    - B - brackets
+    - I - indices
+    - D - division
+    - M - multiplication
+    - A - addition
+    - S - subtract
   - Arithmetic operators.
     - (+) plus operator.
     - (-) subtraction operator.
@@ -111,7 +117,7 @@ Sequence, Selection and Iteration are the three basic programming constructs use
     - (\*\*) powers.
 
 - Logical Expressions
-  - Logical expression evaluates to either True or False.
+  - Logical expression evaluates to either True or False and used to control program flow(i.e the execution of the code based).
   - The three logical Operators are; and, or, not ".
 - Comparison Operators.
   - Use comparison operators to compare values.
@@ -149,6 +155,6 @@ Sequence, Selection and Iteration are the three basic programming constructs use
 
 # Iteration
 
-- To put simply iteration means repetition, python uses the for and while loops.
+- To put simply iteration means repetition, python uses the for and while loops for repetition.
   - For Loop is used when the number of iteration is known.
   - While loop is used unitl a condition is met(unknow number of iterations).

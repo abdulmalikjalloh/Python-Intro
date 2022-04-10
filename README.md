@@ -93,7 +93,6 @@ Sequence, Selection and Iteration are the three basic programming constructs use
 
   - input function: is used to capture user input in python and the default data type is string. Use the int, float, string and other data types to convert the default string input to the respective data type as required.
 
-
 - Arithmetic Expression.
 
   - Arithmetic expressions evaluates to a number, therefore uou must thing about BIDMAS(evaluated in order of precedence) when using it in python.
@@ -123,6 +122,12 @@ Sequence, Selection and Iteration are the three basic programming constructs use
     - (<) less than or equal to.
     - (>=) greater than or equal to.
     - (!=) Not equal to.
+- The assignment operator
+- The assignment operator '=' can be used to assigned the same value to multiple variables"
+  - myNum1 = myNum2 = myNum3 = 12
+- The coumpound assignment
+  - Python uses several compound operators, the compound assignment operator, add the value stored in the variable on the right to the value stored in the variable on the left, then assign the total value to the variable on the left.
+  - myNum4 += myNum5
 
 # Selection
 
@@ -152,6 +157,7 @@ Sequence, Selection and Iteration are the three basic programming constructs use
 # Iteration
 
 - To put simply iteration means repetition, python uses the for and while loops for repetition.
+
   - For Loop is used when the number of iteration is known.
   - While loop is used unitl a condition is met(unknow number of iterations).
 

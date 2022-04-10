@@ -28,7 +28,7 @@ print(f"use of the  mulitiplication  operator: {myNum1} X {myNum2} = {myNum1 * m
 print(f"use of the Division operator: {myNum1} / {myNum2} = {myNum1 / myNum2}")
 
 print(
-    f"use of the Floor Division operator: {myNum3} // {myNum4} rounded to = {myNum3 // myNum4}"
+    f"\nUse of the Floor Division operator: {myNum3} // {myNum4} rounded to = {myNum3 // myNum4}"
 )
 
 print(

@@ -1,3 +1,6 @@
+"""This is when an if/else block(selection) is place inside another if/else block(selection).
+  Nested if only"""
+
 learner = input("Enter learner name: ")
 pythonScore = float(input("Enter your python score: "))
 htmlScore = float(input("Enter your HTML score: "))
@@ -10,7 +13,7 @@ elif htmlScore < 45:
 elif mySqlScore < 45:
     print(f"{learner}, try again in SQL {mySqlScore}")
 
-else:
+else:  # The if blocks are nested in the else below and will be executed based on the average score
     averageGrade = (pythonScore + htmlScore + mySqlScore) / 3
     if averageGrade <= 55:
         print(f"{learner}, your score is {averageGrade} and is Grade C ")

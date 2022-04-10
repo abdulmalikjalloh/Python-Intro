@@ -12,15 +12,15 @@ learner = "Saeed"
 learnerMark = int(input(f"Enter a mark for {learner}: "))
 
 if learnerMark >= 85:  #  if this condition is true(met) do something (Assign grade B).
-    grade = "A"
+    learnerGrade = "A"
 elif (
     learnerMark >= 70
-):  # elif this condition is true(met) do something (Assign grade B)
-    grade = "B"
+):  # elif this condition is true(met) do something (Assign learnerGrade B)
+    learnerGrade = "B"
 elif (
     learnerMark >= 50
-):  # elif this condition is true(met) do something (Assign grade C)
-    grade = "C"
-else:  # else this condition is true(met) do something (Assign grade F)
-    grade = "F"
-print(f"{learner}, your grade is {grade}")
+):  # elif this condition is true(met) do something (Assign learnerGrade C)
+    learnerGrade = "C"
+else:  # else this condition is true(met) do something (Assign learnerGrade F)
+    learnerGrade = "F"
+print(f"{learner}, your learnerGrade is {learnerGrade}")

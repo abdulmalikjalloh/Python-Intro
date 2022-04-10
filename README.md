@@ -95,7 +95,7 @@ Sequence, Selection and Iteration are the three basic programming constructs use
 
 - Arithmetic Expression.
 
-  - Arithmetic expressions evaluates to a number, therefore uou must thing about BIDMAS(evaluated in order of precedence) when using it in python.
+  - Arithmetic expressions evaluates to a number, think BIDMAS(evaluated in order of precedence) when using Arithmetic expression in python.
     - B - brackets
     - I - indices
     - D - division

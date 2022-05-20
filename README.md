@@ -159,9 +159,17 @@ Sequence, Selection and Iteration are the three basic programming constructs use
 - To put simply iteration means repetition, python uses the for and while loops for repetition.
 
   - For Loop is used when the number of iteration is known.
-  - While loop is used unitl a condition is met(unknow number of iterations).
+  - While loop is used unitl a condition is met(unknown number of iterations).
 
 - List & Strings Methods/functions.
 
   - List Methods are used to perform list operations.
   - String Methods are used to perform string operations.
+
+# Python Data Structure: Record and Dictionary
+
+- Data Structure is
+
+  - Record is a static data structure. You must determine the attributes and the data
+
+  - Dictionary

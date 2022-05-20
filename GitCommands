@@ -1,0 +1,91 @@
+    1  cd Desktop/
+    2  cd Web\ Programming/
+    3  cd Node-JS/
+    4  cd Newsletter-Signup/
+    5  cd ..
+    6  cd story
+    7  cd ..
+    8  cd Story/
+    9  ls
+   10  git log
+   11  git remote add origin git@github.com:abdulmalikjalloh/Story.git
+   12  git push -u origin master
+   13  git log
+   14  git remote add origin https://github.com/abdulmalikjalloh/Story.git
+   15  git remote add origin git@github.com:abdulmalikjalloh/Story.git
+   16  git push -u origin master
+   17  ls -a
+   18  rm -rf git@github.com:abdulmalikjalloh/Story.git
+   19  ls -a
+   20  git status
+   21  git remote add origin https://github.com/abdulmalikjalloh/Story.git
+   22  git remote add origin https://github.com/abdulmalikjalloh/MyStory.git 
+   23  git push -u origin master
+   24  git push -u origin master
+   25  ls -a
+   26   cd ./
+   27  ls
+   28  cd ..
+   29  cd ../
+   30  ls
+   31  cd ..
+   32  ls
+   33  cd Desktop/
+   34  cd Web\ Programming/Node-JS/
+   35  ls
+   36  cd ..
+   37  ls
+   38  cd Story/
+   39  ls
+   40  git remote add origin https://github.com/abdulmalikjalloh/cv.git
+   41  git push -u origin master
+   42  exit
+   43  cd Documents/Study/Web\ Dev/React_JS/
+   44  ls
+   45  clear
+   46  npm i @material-ui/core
+   47  npm i @material-ui/icons
+   48  npm audit fix
+   49  cd keepe
+   50  clear
+   51  cd ..
+   52  cd..
+   53  cd ..
+   54  cd Web\ Dev/
+   55  clear
+   56  cd..
+   57  cd ..
+   58  cd ..
+   59  cd ..
+   60  cd Desktop/
+   61  cd Web\ Programming/
+   62  cd Story/
+   63  clear
+   64  git log
+   65  git branch alien-plot
+   66  git branch 
+   67  git checkout alien-plot
+   68  git add .
+   69  git commit -m "modify chapters 1 and 2 to have Alien-plot"
+   70  git log
+   71  git branch
+   72  git checkout master
+   73  touch chapter4.txt
+   74  start chapter4.txt
+   75  git add .
+   76  git commit -m "add chapter 4"
+   77  git checkout alien-plot
+   78  git checkout master 
+   79  git merge alien-plot
+   80  git branch
+   81  git log
+   82  git push origin master -u
+   83  exit
+   84  ls 
+   85  cd Desktop/into-to-node/
+   86  ls
+   87  npm init -y
+   88  npp i mongoose
+   89  npm i mongoose
+   90  exit
+   91  history > GitCommands

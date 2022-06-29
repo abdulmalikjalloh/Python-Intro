@@ -1,0 +1,9 @@
+James Bond7
+Spider Man 24
+Paul Smith 34
+P J 23A  B 34['Don', 'Simon', 45]
+aaa sss 123
+ass sss 34['ass', 'sss', 34]
+t est 23
+aaa  vvvv 12
+['aaa ', 'vvvv', 12]

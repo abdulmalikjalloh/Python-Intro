@@ -1,6 +1,6 @@
 # Python-Intro
 
-I have a very strong passion for all things tech. Therefore, as python is one of my passion in tech, I will be documenting and sharing my knowledge of coding in python programming language, starting with the basics.
+Python programming language basics/fundamentals to functions.
 
 # What is Python?
 
